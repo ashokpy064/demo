@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C6CE-DA39
+
+ Directory of C:\Users\ashok\Desktop\Py\demo_git
+
+18-02-2021  06:58    <DIR>          .
+18-02-2021  06:58    <DIR>          ..
+18-02-2021  06:58                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,221,771,264 bytes free
+
+
+
+NEw line
